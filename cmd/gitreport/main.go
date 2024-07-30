@@ -11,7 +11,7 @@ import (
 
 	"github.com/araddon/dateparse"
 	gitpg "github.com/wojciechka/gitreport"
-	"gopkg.in/src-d/go-git.v4"
+	"github.com/go-git/go-git/v5"
 )
 
 var (
